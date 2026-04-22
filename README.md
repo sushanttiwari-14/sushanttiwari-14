@@ -1,4 +1,4 @@
-3rd year BTech student skilled in C, C++, Python, and DSA in C++. Experienced in full-stack web development (frontend + basic backend) and UI/UX with Figma. Currently building iOS apps using Swift & SwiftUI with MVVM and API integration, focused on improving architecture and problem-solving skills. 🚀
+Undergrad BTech student skilled in C, C++, Python, and DSA in C++. Experienced in full-stack web development (frontend + basic backend) and UI/UX with Figma. Currently building iOS apps using Swift & SwiftUI with MVVM and API integration, focused on improving architecture and problem-solving skills. 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushanttiwari.14)
