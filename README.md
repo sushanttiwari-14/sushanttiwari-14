@@ -1,8 +1,6 @@
 Undergrad BTech student skilled in C, C++, Python, and DSA in C++. Experienced in full-stack web development (frontend + basic backend) and UI/UX with Figma. Currently building iOS apps using Swift & SwiftUI with MVVM and API integration, focused on improving architecture and problem-solving skills. 🚀
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sushanttiwari.14)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Honest_Whereas3)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sushanttiwari_9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sushant-tiwari-b9619128a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushant79739@gmail.com)
